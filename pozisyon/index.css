@@ -1,0 +1,147 @@
+* {
+        margin: 0;
+        padding: 0;
+        text-decoration: none;  
+        
+}
+
+
+
+.third {
+    padding: 40px 0;
+}
+
+.comn .icon-flow {
+    width: 3rem;
+    height: 3rem;
+}
+
+.comn {
+    padding: 40px 0;
+}
+
+.comn .hero-div {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.4rem;
+}
+
+.comn .hero-div h3 {
+   margin: 0;
+  
+}
+
+.comn .hero-div p {
+    margin: 0;
+    
+}
+
+.stood {
+    background-color:#5f6f52 ;
+    color:text-secondary-emphasis;
+    
+}    
+
+
+
+.going {
+    background-color:#a9b388;
+}
+
+
+.py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
+
+.aside{
+    padding: 2rem;
+    border: 1px solid #5e94e6;
+    border-radius: 0.7rem;
+    margin-bottom: 3rem;
+    background-color:#198754 ;
+}
+
+.skyy {
+    width: 50px;
+    border-radius: 50%; /* Yuvarlak kenarlıklar için border-radius kullanılır */
+}
+
+
+.blue {
+    width:40px;
+    height: 40px;
+    border-radius: 100%;
+}
+
+.flowerss {
+    width: 50px;
+    height: 50px;
+}
+
+.goingto {
+    height: 20rem ;
+}
+
+
+.skygo button {
+    
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    width: 15rem;
+}
+
+.ephesus {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+    background-color:#ffa447 ;
+}
+
+.driver-icon{
+    background-color: #0D6EFD;
+    display: inline-flex;
+    align-items:center ;
+    justify-content: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 5px;
+    padding-bottom: 3px;
+    font-size: 1.5rem;
+    color: white;
+
+     }
+
+     .py-2 {
+        padding-top: 1.5rem !important;
+        padding-bottom: 1.5rem !important;
+     }
+
+     .prime {
+        padding-top: 1.5rem !important;
+        padding-bottom: 1.5rem !important;
+     }
+
+     .apple {
+        margin-bottom: 200px;
+     }
+
+     .purple {
+        margin-bottom: 200px ;
+     }
+
+     .pink {
+        margin-bottom: 150px;
+     }
+     
+     .your-mood {
+        margin-bottom: 10px ;
+     }
+
+
+     .cuter {
+        margin-bottom: 20px;
+     }
